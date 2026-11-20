@@ -1,0 +1,12 @@
+---
+title: "9041 Capstone: Predictors of Severity of Heart Disease"
+author: "Payton Hayes"
+format: html
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+
